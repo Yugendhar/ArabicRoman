@@ -1,0 +1,11 @@
+C:\Users\Yogi\Documents\Visual Studio 2010\Projects\ArabicRoman\ArabicRoman\bin\Debug\ArabicRoman.exe
+C:\Users\Yogi\Documents\Visual Studio 2010\Projects\ArabicRoman\ArabicRoman\bin\Debug\ArabicRoman.pdb
+C:\Users\Yogi\Documents\Visual Studio 2010\Projects\ArabicRoman\ArabicRoman\bin\Debug\ArabicRoman.xml
+C:\Users\Yogi\Documents\Visual Studio 2010\Projects\ArabicRoman\ArabicRoman\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Yogi\Documents\Visual Studio 2010\Projects\ArabicRoman\ArabicRoman\obj\x86\Debug\ArabicRoman.ArabicRoman.resources
+C:\Users\Yogi\Documents\Visual Studio 2010\Projects\ArabicRoman\ArabicRoman\obj\x86\Debug\ArabicRoman.Resources.resources
+C:\Users\Yogi\Documents\Visual Studio 2010\Projects\ArabicRoman\ArabicRoman\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Yogi\Documents\Visual Studio 2010\Projects\ArabicRoman\ArabicRoman\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Yogi\Documents\Visual Studio 2010\Projects\ArabicRoman\ArabicRoman\obj\x86\Debug\ArabicRoman.exe
+C:\Users\Yogi\Documents\Visual Studio 2010\Projects\ArabicRoman\ArabicRoman\obj\x86\Debug\ArabicRoman.xml
+C:\Users\Yogi\Documents\Visual Studio 2010\Projects\ArabicRoman\ArabicRoman\obj\x86\Debug\ArabicRoman.pdb
